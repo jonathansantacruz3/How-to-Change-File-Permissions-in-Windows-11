@@ -1,7 +1,7 @@
 ![How to Change File Permissions](https://github.com/jonathansantacruz3/How-to-Change-File-Permissions-in-Windows-11/assets/151465848/2aee3fa6-aced-4acc-afee-a7203e273302)
 
 
-<h1>How to Change File Permissions in Windows 11</h1>
+<h1>How to Change File Permissions on Windows 11</h1>
 This tutorial explains what file permissions are and what the process is on how to change them.<br />
 
 <h2>Operating Systems Used </h2>
