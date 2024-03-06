@@ -2,7 +2,7 @@
 
 
 <h1>How to Change File Permissions on Windows 11</h1>
-This tutorial explains what file permissions are and what the process is on how to change them.<br />
+This tutorial explains what file permissions are and what the process is for how to change them.<br />
 
 <h2>Operating Systems Used </h2>
 
